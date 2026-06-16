@@ -1,0 +1,368 @@
+.container {
+            
+           
+            background-color:rgb(222, 116, 133);
+            padding: 20px;
+            
+            
+        }
+        .at{
+             
+            display: flex;
+            background-color:rgb(222, 116, 133);
+            padding: 20px;
+            gap:50px;
+
+        }
+
+        .head {
+            display: flex; 
+            gap: 0px;
+        }
+        .head i {
+            font-size: 48px;
+            color: #ffffff;
+           
+        }
+        .head h1 {
+            margin: 0;
+            color: #ffffff;
+            font-size: 36px;
+            font-weight: 700;
+            letter-spacing: 0.5px;
+            margin-left: 0px;
+
+            
+        }
+       
+        .Get-it-Now {
+            margin-left: auto;
+            padding: 10px 20px;
+            height: 40px;
+            font-size: 16px;
+            background-color: transparent;
+            color: white;
+            border: 1px solid white;
+            border-radius: 5px;
+            cursor: pointer;
+            margin-right: 150px;
+        }
+        #tusar{
+            margin-left: 400px;
+            font-size:50px ;
+        }
+        .midd{
+            color: #ffffff;
+            text-align: center;
+        }
+        
+        .App-Store{
+            background-color: #ffffff;
+            color:pink;
+            border-radius: 5px;
+            height: 40px;
+            width: 100px;
+            border-color:#ffffff;
+            
+        }
+        .Google-Play{
+            background-color:transparent;
+            color:pink;
+            border-radius: 5px;
+            height: 40px;
+            width: 100px;
+            border-color: #ffffff;
+            margin-left: 10px;
+        }
+        .next{
+            text-align: center;
+            padding: 50px;
+        }
+        
+        .img1{
+            border-radius: 20px;
+            height: 300px;
+            margin-left: 500px;
+           
+        }
+        .img2{
+            border-radius: 60px;
+            height: 300px;
+            padding: 30px;
+            
+        }
+        .bottom{
+            text-align: center;
+
+        }
+        h4{
+            color: pink;
+        }
+        h3{
+            font-size: 30px;
+            font-weight: 800;
+            text-align: center;
+            color: white;
+        }
+        p{
+            color:gray;
+           
+        }
+        .tabler--cloud-computing-filled {
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  --svg: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%23000' d='M9 20a2 2 0 0 1-2 2H3a1 1 0 0 1 0-2h4v-2.997l-.343.001a1 1 0 0 1-.117-.007l-.105-.001c-2.94-.11-5.317-2.399-5.43-5.263L1 11.517C1 8.77 3.08 6.507 5.784 6.1l.114-.016l.07-.181c.663-1.62 2.056-2.906 3.829-3.518l.244-.08c2.194-.667 4.614-.224 6.36 1.176c1.385 1.108 2.187 2.686 2.25 4.34l.004.212l.091.003c2.3.107 4.143 1.961 4.25 4.27l.004.211c0 2.478-1.997 4.487-4.465 4.487H17V20h4a1 1 0 0 1 0 2h-4a2 2 0 0 1-2-2v-2.997h-2V21a1 1 0 0 1-2 0v-3.997H9z'/%3E%3C/svg%3E");
+  background-color: pink;
+  -webkit-mask-image: var(--svg);
+  mask-image: var(--svg);
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-size: 100% 100%;
+  mask-size: 100% 100%;
+}
+.small{
+    height: 250px;
+    width: 300px;
+    background-color:azure;
+    margin: 30px;
+    
+}
+.tabler--cloud-computing-filled{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.small1{
+    height: 250px;
+    width: 300px;
+    background-color:azure;
+    margin: 30px;
+}
+.slow{
+    justify-content: center;
+    display: flex;
+    gap:50px;
+    
+}
+.small2{
+     height: 250px;
+     width: 300px;
+     background-color:azure;
+     margin: 30px;
+}
+.small3{
+    height: 250px;
+    width: 300px;
+    background-color:azure;
+    margin: 30px;
+}
+.small4{
+    height: 250px;
+    width: 300px;
+    background-color:azure;
+    margin: 30px;
+}
+.small5{
+    height: 250px;
+    width: 300px;
+    background-color:azure;
+    margin: 30px;
+}
+.slow1{
+    justify-content: center;
+    display: flex;
+    gap:50px;
+}
+.slow2{
+    justify-content: center;
+    display: flex;
+    gap:50px;
+}
+
+.write{
+    margin-top: 30px;
+    margin-left: 20px;
+    height: 50px;
+    width: 50px;
+}
+h5{
+    margin-left: 20px;
+}
+p{
+    margin-left: 20px;
+}
+.lower{
+    background-color:rgb(222, 116, 133);
+    height: 350px;
+}
+
+
+.my{
+    display: flex;
+    justify-content: center;
+    gap: 200px;
+}
+h1{
+    color: white;
+}
+h6{
+    font-size: 17px;
+    text-align: center;
+    color: white;
+   
+}
+.my1{
+    display: flex;
+    gap: 200px;
+    color: white;
+    margin-top: -55px;
+    justify-content: center;
+}
+.down{
+    background-color: #ffffff;
+    text-align: center;
+}
+
+.lucide--dollar-sign {
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  --svg: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='none' stroke='%23000' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M12 2v20m5-17H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6'/%3E%3C/svg%3E");
+  background-color: currentColor;
+  -webkit-mask-image: var(--svg);
+  mask-image: var(--svg);
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-size: 100% 100%;
+  mask-size: 100% 100%;
+}
+.Buy-Hobby{
+    width: 250px;
+    margin-left: 20px;
+    background-color: black;
+    color: white;
+    height: 30px;
+    border-radius: 10px;
+    outline: none;
+}
+
+.carbon--checkmark-outline {
+  display: inline-block;
+  width: 32px;
+  height: 32px;
+  --svg: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cpath fill='%23000' d='m14 21.414l-5-5.001L10.413 15L14 18.586L21.585 11L23 12.415z'/%3E%3Cpath fill='%23000' d='M16 2a14 14 0 1 0 14 14A14 14 0 0 0 16 2m0 26a12 12 0 1 1 12-12a12 12 0 0 1-12 12'/%3E%3C/svg%3E");
+  background-color: currentColor;
+  -webkit-mask-image: var(--svg);
+  mask-image: var(--svg);
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-size: 100% 100%;
+  mask-size: 100% 100%;
+}
+.carbon--checkmark-outline{
+    color: pink;
+    height: 15px;
+
+}
+
+.deep{
+    background-color: #f7f6f3;
+    
+}
+.Buy-Freelancer{
+    width: 250px;
+    margin-left: 20px;
+    background-color: black;
+    color: white;
+    height: 30px;
+    border-radius: 10px;
+    outline: none;
+}
+.Buy-Startup{
+    width: 250px;
+    margin-left: 20px;
+    background-color: black;
+    color: white;
+    height: 30px;
+    border-radius: 10px;
+    outline: none;
+}
+.Buy-Enterprise{
+    width: 250px;
+    margin-left: 20px;
+    background-color: black;
+    color: white;
+    height: 30px;
+    border-radius: 10px;
+    outline: none;
+}
+.extra{
+    background-color: pink;
+}
+.Purchase-Now{
+    height: 40px;
+    width: 180px;
+    background-color: white;
+    border-radius: 10px;
+    margin-left: 630px;
+    
+}
+.dash{
+             
+            height: 500px;
+            background-color:#121e32;
+            padding: 100px;
+            gap:50px;
+
+        }
+
+        .option {
+            display: flex;
+            gap: 0px;
+            margin-left: 130px;
+        }
+        .option i {
+            font-size: 48px;
+            color: #ffffff;
+            
+           
+        }
+        .option h1 {
+            margin: 0;
+            color: #ffffff;
+            font-size: 36px;
+            font-weight: 700;
+            letter-spacing: 0.5px;
+            margin-left: 0px;
+        }
+        h2{
+            
+            font-size: 19px;
+        }
+        .Solution{
+            margin-left: 500px;
+            position: relative;
+            top: -300px;
+            color: hwb(0 100% 0% / 0.703);
+        }
+        .Solution3{
+            margin-left: 300px;
+            position: relative;
+            top: -485px;
+            color: hwb(0 100% 0% / 0.703);
+        }
+        .all-content{
+            display: flex;
+            justify-content: center;
+            gap:50px;
+        }
+        .all-content1 {
+            background-color: white;
+            
+        }
+        .all-content2{
+            background-color: white;
+        }
+        .option1{
+            margin-left: 130px;
+        }
